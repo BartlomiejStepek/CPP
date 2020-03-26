@@ -1,3 +1,4 @@
+/*** Bartlomiej Stepek ***/
 #include "statistix.h"
 #include <iostream>
 
