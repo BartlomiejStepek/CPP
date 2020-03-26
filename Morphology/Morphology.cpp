@@ -1,4 +1,4 @@
-//Bartlomiej Stepek
+/*** Bartlomiej Stepek ***/
 #include "Morphology.h"
 #include <iostream>
 #include <sstream>
