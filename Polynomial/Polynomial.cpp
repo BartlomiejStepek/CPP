@@ -1,4 +1,4 @@
-//Bart³omiej Stepek
+/*** Bartlomiej Stepek ***/
 
 #include "Z2.h"
 #include "Polynomial.h"
