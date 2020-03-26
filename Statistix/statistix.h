@@ -1,4 +1,4 @@
-///Bartlomiej Stepek
+/*** Bartlomiej Stepek ***/
 
 void merge(int *array, int left, int middle, int right){
     int arr2[right + 1], i = left, j = middle + 1;
